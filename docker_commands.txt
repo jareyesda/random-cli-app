@@ -1,0 +1,4 @@
+Building and Running my Image in Docker:
+
+docker build -t my-swift-image . 
+docker run --rm my-swift-image
